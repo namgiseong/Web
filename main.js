@@ -27,6 +27,4 @@ $(document).ready(function(){
 
     paper.view.draw();
     console.log('jquery-main.js loaded');
-
-
 });
